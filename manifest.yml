@@ -1,6 +1,9 @@
 ---
 applications:
-- name: cf-ex-php-info
+# We have reserved a name/route for your app
+- name: demoapp
+  host: demoapp
+  domain: hcf.tt.stacktest.io
   memory: 128M
   instances: 1
   path: .
