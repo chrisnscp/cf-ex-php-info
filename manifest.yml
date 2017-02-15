@@ -5,7 +5,7 @@ applications:
   host: demoapp
   domain: hcf.tt.stacktest.io
   memory: 128M
-  instances: 1
+  instances: 2
   path: .
   env:
     SOME_VAR: Wheee
