@@ -1,8 +1,8 @@
 ---
 applications:
 # We have reserved a name/route for your app
-- name: demok
-  host: demok
+- name: democs
+  host: democs
   domain: hcf.tt.stacktest.io
 memory: 128M
   path: .
