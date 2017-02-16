@@ -1,11 +1,10 @@
 ---
 applications:
 # We have reserved a name/route for your app
-- name: demoapp
-  host: demoapp
+- name: demok
+  host: demok
   domain: hcf.tt.stacktest.io
-  memory: 128M
-  instances: 2
+memory: 128M
   path: .
   env:
     SOME_VAR: Wheee
